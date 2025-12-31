@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249686660504",
+    "project_id": "evidyut-b24ca",
+    "storage_bucket": "evidyut-b24ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249686660504:android:209b655ea6f80f3f6fc7ed",
+        "android_client_info": {
+          "package_name": "com.example.assignment_evidyut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmApfBhdIaJolbyzP8Zf4YpXO6z78ZhsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
